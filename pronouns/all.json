@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Personal Pronouns",
+    "description": "Personal pronouns are used to replace a noun that is the subject of a sentence.",
+    "items": [
+      {
+        "word": "ich",
+        "en_meaning": "I",
+        "example": "Ich bin ein Mann.",
+        "en_example_meaning": "I am a man"
+      },
+      {
+        "word": "du",
+        "en_meaning": "you (singular informal)",
+        "example": "Du bist freundlich.",
+        "en_example_meaning": "You are friendly"
+      },
+      {
+        "word": "er",
+        "en_meaning": "he",
+        "example": "Er ist Arzt.",
+        "en_example_meaning": "He is a doctor"
+      },
+      {
+        "word": "sie",
+        "en_meaning": "she",
+        "example": "Sie ist Lehrerin.",
+        "en_example_meaning": "She is a teacher"
+      },
+      {
+        "word": "es",
+        "en_meaning": "it",
+        "example": "Es regnet.",
+        "en_example_meaning": "It is raining"
+      },
+      {
+        "word": "wir",
+        "en_meaning": "we",
+        "example": "Wir gehen zur Schule.",
+        "en_example_meaning": "We are going to school"
+      },
+      {
+        "word": "ihr",
+        "en_meaning": "you (plural informal)",
+        "example": "Ihr seid spät.",
+        "en_example_meaning": "You (plural) are late"
+      },
+      {
+        "word": "sie",
+        "en_meaning": "they",
+        "example": "Sie spielen im Park.",
+        "en_example_meaning": "They are playing in the park"
+      },
+      {
+        "word": "Sie",
+        "en_meaning": "you (singular and plural formal)",
+        "example": "Wie heißen Sie?",
+        "en_example_meaning": "What is your name?"
+      }
+    ]
+  },
+  {
+    "name": "Possessive Pronouns",
+    "description": "Possessive pronouns indicate ownership or possession.",
+    "items": [
+      {
+        "word": "mein",
+        "en_meaning": "my",
+        "example": "Das ist mein Buch.",
+        "en_example_meaning": "That is my book"
+      },
+      {
+        "word": "dein",
+        "en_meaning": "your (singular informal)",
+        "example": "Wo ist dein Auto?",
+        "en_example_meaning": "Where is your car?"
+      },
+      {
+        "word": "sein",
+        "en_meaning": "his/its",
+        "example": "Das ist sein Stift.",
+        "en_example_meaning": "That is his pen"
+      },
+      {
+        "word": "ihr",
+        "en_meaning": "her/their",
+        "example": "Das ist ihr Hund.",
+        "en_example_meaning": "That is her dog"
+      },
+      {
+        "word": "unser",
+        "en_meaning": "our",
+        "example": "Unser Haus ist groß.",
+        "en_example_meaning": "Our house is big"
+      },
+      {
+        "word": "euer",
+        "en_meaning": "your (plural informal)",
+        "example": "Euer Zimmer ist schön.",
+        "en_example_meaning": "Your (plural) room is nice"
+      },
+      {
+        "word": "Ihr",
+        "en_meaning": "your (singular and plural formal)",
+        "example": "Ihr Termin ist um drei Uhr.",
+        "en_example_meaning": "Your appointment is at three o'clock"
+      }
+    ]
+  },
+  {
+    "name": "Reflexive Pronouns",
+    "description": "Reflexive pronouns refer back to the subject of the sentence.",
+    "items": [
+      {
+        "word": "mich",
+        "en_meaning": "myself (accusative)",
+        "example": "Ich sehe mich im Spiegel.",
+        "en_example_meaning": "I see myself in the mirror"
+      },
+      {
+        "word": "dich",
+        "en_meaning": "yourself (accusative)",
+        "example": "Du musst dich beeilen.",
+        "en_example_meaning": "You have to hurry up"
+      },
+      {
+        "word": "sich",
+        "en_meaning": "himself/herself/itself/themselves (accusative)",
+        "example": "Er freut sich über das Geschenk.",
+        "en_example_meaning": "He is happy about the gift"
+      },
+      {
+        "word": "uns",
+        "en_meaning": "ourselves (accusative)",
+        "example": "Wir müssen uns vorbereiten.",
+        "en_example_meaning": "We need to prepare ourselves"
+      },
+      {
+        "word": "euch",
+        "en_meaning": "yourselves (accusative)",
+        "example": "Ihr sollt euch entspannen.",
+        "en_example_meaning": "You (plural) should relax"
+      }
+    ]
+  },
+  {
+    "name": "Demonstrative Pronouns",
+    "description": "Demonstrative pronouns point to specific things or people.",
+    "items": [
+      {
+        "word": "dieser",
+        "en_meaning": "this (masculine)",
+        "example": "Dieser Tisch ist neu.",
+        "en_example_meaning": "This table is new"
+      },
+      {
+        "word": "diese",
+        "en_meaning": "this (feminine/plural)",
+        "example": "Diese Bücher sind interessant.",
+        "en_example_meaning": "These books are interesting"
+      },
+      {
+        "word": "dieses",
+        "en_meaning": "this (neuter)",
+        "example": "Dieses Auto ist schnell.",
+        "en_example_meaning": "This car is fast"
+      },
+      {
+        "word": "jener",
+        "en_meaning": "that (masculine)",
+        "example": "Jener Mann ist mein Lehrer.",
+        "en_example_meaning": "That man is my teacher"
+      },
+      {
+        "word": "jene",
+        "en_meaning": "that (feminine/plural)",
+        "example": "Jene Frauen sind freundlich.",
+        "en_example_meaning": "Those women are friendly"
+      },
+      {
+        "word": "jenes",
+        "en_meaning": "that (neuter)",
+        "example": "Jenes Gebäude ist alt.",
+        "en_example_meaning": "That building is old"
+      }
+    ]
+  },
+  {
+    "name": "Interrogative Pronouns",
+    "description": "Interrogative pronouns are used to ask questions.",
+    "items": [
+      {
+        "word": "wer",
+        "en_meaning": "who",
+        "example": "Wer ist dort?",
+        "en_example_meaning": "Who is there?"
+      },
+      {
+        "word": "was",
+        "en_meaning": "what",
+        "example": "Was machst du?",
+        "en_example_meaning": "What are you doing?"
+      },
+      {
+        "word": "welcher",
+        "en_meaning": "which (masculine)",
+        "example": "Welcher Weg führt nach Hause?",
+        "en_example_meaning": "Which way leads home?"
+      },
+      {
+        "word": "welche",
+        "en_meaning": "which (feminine/plural)",
+        "example": "Welche Filme magst du?",
+        "en_example_meaning": "Which movies do you like?"
+      },
+      {
+        "word": "welches",
+        "en_meaning": "which (neuter)",
+        "example": "Welches Buch liest du?",
+        "en_example_meaning": "Which book are you reading?"
+      }
+    ]
+  },
+  {
+    "name": "Relative Pronouns",
+    "description": "Relative pronouns introduce relative clauses.",
+    "items": [
+      {
+        "word": "der",
+        "en_meaning": "who/which/that (masculine)",
+        "example": "Der Mann, der dort steht, ist mein Freund.",
+        "en_example_meaning": "The man who is standing there is my friend"
+      },
+      {
+        "word": "die",
+        "en_meaning": "who/which/that (feminine/plural)",
+        "example": "Die Frau, die den Kuchen backt, ist meine Mutter.",
+        "en_example_meaning": "The woman who is baking the cake is my mother"
+      },
+      {
+        "word": "das",
+        "en_meaning": "who/which/that (neuter)",
+        "example": "Das Buch, das du liest, ist interessant.",
+        "en_example_meaning": "The book that you are reading is interesting"
+      },
+      {
+        "word": "welcher",
+        "en_meaning": "which (masculine)",
+        "example": "Welcher Film hast du gesehen?",
+        "en_example_meaning": "Which movie did you see?"
+      },
+      {
+        "word": "welche",
+        "en_meaning": "which (feminine/plural)",
+        "example": "Welche Lieder magst du?",
+        "en_example_meaning": "Which songs do you like?"
+      },
+      {
+        "word": "welches",
+        "en_meaning": "which (neuter)",
+        "example": "Welches Restaurant ist das beste?",
+        "en_example_meaning": "Which restaurant is the best?"
+      }
+    ]
+  },
+  {
+    "name": "Indefinite Pronouns",
+    "description": "Indefinite pronouns refer to non-specific people or things.",
+    "items": [
+      {
+        "word": "jemand",
+        "en_meaning": "someone",
+        "example": "Jemand hat an der Tür geklopft.",
+        "en_example_meaning": "Someone knocked at the door"
+      },
+      {
+        "word": "niemand",
+        "en_meaning": "no one",
+        "example": "Niemand war zu Hause.",
+        "en_example_meaning": "No one was home"
+      },
+      {
+        "word": "etwas",
+        "en_meaning": "something",
+        "example": "Ich brauche etwas Wasser.",
+        "en_example_meaning": "I need something to drink"
+      },
+      {
+        "word": "nichts",
+        "en_meaning": "nothing",
+        "example": "Es gibt hier nichts zu tun.",
+        "en_example_meaning": "There is nothing to do here"
+      },
+      {
+        "word": "alle",
+        "en_meaning": "all",
+        "example": "Alle sind eingeladen.",
+        "en_example_meaning": "Everyone is invited"
+      },
+      {
+        "word": "keiner",
+        "en_meaning": "none",
+        "example": "Keiner weiß die Antwort.",
+        "en_example_meaning": "None know the answer"
+      },
+      {
+        "word": "man",
+        "en_meaning": "one/people",
+        "example": "Man sollte immer pünktlich sein.",
+        "en_example_meaning": "One should always be punctual"
+      }
+    ]
+  },
+  {
+    "name": "Quantifiers",
+    "description": "Quantifiers indicate the quantity or amount of something.",
+    "items": [
+      {
+        "word": "ein",
+        "en_meaning": "a/one (masculine/neuter)",
+        "example": "Ich habe ein Buch.",
+        "en_example_meaning": "I have a book"
+      },
+      {
+        "word": "eine",
+        "en_meaning": "a/one (feminine)",
+        "example": "Sie hat eine Katze.",
+        "en_example_meaning": "She has a cat"
+      },
+      {
+        "word": "mehrere",
+        "en_meaning": "several",
+        "example": "Es gibt mehrere Möglichkeiten.",
+        "en_example_meaning": "There are several possibilities"
+      },
+      {
+        "word": "viele",
+        "en_meaning": "many",
+        "example": "Viele Leute sind gekommen.",
+        "en_example_meaning": "Many people have come"
+      },
+      {
+        "word": "wenige",
+        "en_meaning": "few",
+        "example": "Es gibt nur wenige Plätze.",
+        "en_example_meaning": "There are only a few seats"
+      },
+      {
+        "word": "alle",
+        "en_meaning": "all",
+        "example": "Alle Schüler haben bestanden.",
+        "en_example_meaning": "All students have passed"
+      },
+      {
+        "word": "einige",
+        "en_meaning": "some",
+        "example": "Einige Menschen haben sich beschwert.",
+        "en_example_meaning": "Some people have complained"
+      }
+    ]
+  }
+]
